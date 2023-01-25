@@ -6,4 +6,3 @@
 <p align="center">
   <img src="dina.gif" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=tranghane)](https://github.com/ryo-ma/github-profile-trophy)
