@@ -1,7 +1,7 @@
 ###                                                   
 
 <h2 align="center">
-  Hi this is Ocean's 🌊🌊🌊
+  Running away from my problems
 </h2>
 <p align="center">
   <img src="dina.gif" />
