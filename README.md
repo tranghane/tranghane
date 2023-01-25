@@ -1,8 +1,7 @@
 ###                                                   
 
 <h2 align="center" color="cyan">
-  <span style="color:orange;">Running away from my problems</span>
-  
+  Running away from my problems ☕
 </h2>
 <p align="center">
   <img src="dina.gif" />
