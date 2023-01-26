@@ -7,4 +7,6 @@
   <img src="loading.gif" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranghane&show_icons=true&theme=highcontrast&card_width1500)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranghane&show_icons=true&theme=highcontrast&card_width1500)](https://github.com/anuraghazra/github-readme-stats)
+</p>
