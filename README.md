@@ -1,7 +1,7 @@
 ###                                                   
 
 <h2 align="center">
-  wo
+  <img src="generatedtext.png" />
 </h2>
 <p align="center">
   <img src="loading.gif" />
