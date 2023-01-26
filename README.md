@@ -8,12 +8,7 @@
   <img src="loading.gif" />
 </p>
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://streak-stats.demolab.com/?user=tranghane&theme=gruvbox_duo&hide_border=true" alt="streak"/>
-</a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img 
-     src="https://github-readme-stats.vercel.app/api?username=tranghane" alt="ranks/> 
-</a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
