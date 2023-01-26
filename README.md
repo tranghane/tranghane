@@ -6,6 +6,6 @@
 <p align="center">
   <img src="loading.gif" />
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranghane&show_icons=true&theme=gruvbox_light" alt="ranks" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranghane&show_icons=true&theme=graywhite" alt="ranks" />
 
 
