@@ -13,6 +13,6 @@
 
 
 <p align="center" href="streak">
-  <img width = "500" src="https://streak-stats.demolab.com/?user=tranghane&theme=gruvbox_duo&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=tranghane&theme=gruvbox_duo&hide_border=true" width = "500" alt="streak"/>
 </p>
 
