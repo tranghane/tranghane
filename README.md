@@ -16,3 +16,4 @@
   <img src="https://streak-stats.demolab.com/?user=tranghane&theme=gruvbox_duo&hide_border=true" alt="streak"/>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
