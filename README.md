@@ -14,5 +14,5 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img 
-     src="https://github-readme-stats.vercel.app/apiusername=tranghane&show_icons=true&theme=graywhite&hide_border=true&custom_title=class='stats'" alt="ranks/> 
+     src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="ranks/> 
 </a>
