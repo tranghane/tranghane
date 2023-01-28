@@ -24,5 +24,5 @@
   <p align = "center">
   ______________________________________________________
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranghane" alt="tranghane" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranghane&hide_border=true&custom_title=moreNumbers" alt="tranghane" />
   
