@@ -18,4 +18,4 @@
 <p align = "center">
   ______________________________________________________
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranghane&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tranghane&show_icons=true&theme=flag-india " alt="abhisheknaiidu" />
