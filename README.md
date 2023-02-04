@@ -27,4 +27,8 @@
   ______________________________________________________
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranghane&hide_border=true&custom_title=moreNumbers&layout=compact&theme=buefy" alt="tranghane" />
-  
+    
+  <p align = "center">
+  ______________________________________________________
+</p>
+![Metrics](/github-metrics.svg)
