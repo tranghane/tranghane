@@ -31,4 +31,4 @@
   <p align = "center">
   ______________________________________________________
 </p>
-![Metrics](/github-metrics.svg)
+![Metrics](github-metrics.svg)
