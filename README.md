@@ -38,9 +38,5 @@
   <img src="metrics.plugin.isocalendar.fullyear.svg" />
 </h2>
 <p align="center">
-  Tâm hồn ta tựa như mây và sóng  
+  <img src="quote1.gif" />
 </p>
-<p align="center">
-  Mây lợp ngói, sóng làm móng và xây
-</p>
-  
