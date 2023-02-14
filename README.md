@@ -38,5 +38,5 @@
   <img src="metrics.plugin.isocalendar.fullyear.svg" />
 </h2>
 <p align="center">
-  <img src="quote1.gif" />
+  <img src="quote1.png" />
 </p>
