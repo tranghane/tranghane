@@ -30,6 +30,7 @@
 
 
 
+
 <p align="center">
   <img src="loading.gif" />
 </p>
@@ -55,6 +56,7 @@
 <p align="center">
   <img src="quote1.png" />
 </p>
+
 
 
 
