@@ -56,7 +56,7 @@
 <p align = "center">
   ______________________________________________________
 </p>
-  ______________________________________________________
+
 </p>
 <h2 align="center">
   <img src="metrics.plugin.isocalendar.fullyear.svg" />
